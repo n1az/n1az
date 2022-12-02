@@ -65,6 +65,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1az&theme=gruvbox&hide_border=true" alt="n1az"/>
 </p>
 
+![Snake animation](https://github.com/n1az/n1az/blob/output/github-contribution-grid-snake.svg)
+
  <p align='center'>
     <img src="https://media.giphy.com/media/QLgtN0msAekg3x7YTm/giphy.gif"/>
   </a>
