@@ -33,7 +33,7 @@
  
 - 👋 So, I’m Md. Niaz Morshed and thanks for visiting my kind of empty github
 - 👀 I’m interested in Artificial Intelligence and Quantum Computation
-- 🌱 I’m currently Studying masters in Data Science
+- 🌱 I’m currently pursuing masters in Data Science
 - 📚 I’m looking forward to AI Engineering and Data Science related projects/PhD or job
 - 📫 Reach me through my github page or here, where you'll be redirected to the options per your convenience.
 
