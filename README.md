@@ -43,13 +43,14 @@
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=dog-vision-ai&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox" />
   </a>
 
-  <a href="https://github.com/n1az/ai-survey-analysis">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=ai-survey-analysis&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox" />
-  </a>
-
   <a href="https://github.com/n1az/MedBot">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=MedBot&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox" />
   </a>
+
+  <a href="https://github.com/n1az/ai-survey-analysis">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=ai-survey-analysis&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox" />
+  </a>
+  
   <a href="https://github.com/n1az/DSAI-bootcamp">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=DSAI-bootcamp&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox" />
   </a>
