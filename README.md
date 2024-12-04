@@ -61,11 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1az&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/n1az/n1az/blob/output/github-contribution-grid-snake-dark.svg)
 
  <p align='center'>
     <img src="https://media.giphy.com/media/QLgtN0msAekg3x7YTm/giphy.gif"/>
