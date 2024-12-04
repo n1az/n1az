@@ -59,13 +59,13 @@
 ## &#x1f4c8; GitHub Stats
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1az&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=n1az&hide=contribs&border_color=2e4058&layout=compact&show_icons=true&theme=gruvbox"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1az&theme=gruvbox&hide_border=true" alt="n1az"/>
 </p>
 
-![Snake animation](https://github.com/n1az/n1az/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
  <p align='center'>
     <img src="https://media.giphy.com/media/QLgtN0msAekg3x7YTm/giphy.gif"/>
@@ -73,10 +73,3 @@
  </p>
 
 
-
-
-
-<!---
-n1az/n1az is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
