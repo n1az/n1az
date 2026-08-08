@@ -83,28 +83,7 @@ n1az@potsdam:~/readme$ ./init_profile.sh
 
 ---
 
-## `[ 05 ]` ▚ PINNED.REPOS
-
-<p align="center">
-  <a href="https://github.com/n1az/dog-vision-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=dog-vision-ai&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000"/>
-  </a>
-  <a href="https://github.com/n1az/ai-survey-analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=ai-survey-analysis&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/n1az/MedBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=MedBot&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000"/>
-  </a>
-  <a href="https://github.com/n1az/DSAI-bootcamp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n1az&repo=DSAI-bootcamp&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000"/>
-  </a>
-</p>
-
----
-
-## `[ 06 ]` ▚ LANGUAGES.CFG
+## `[ 05 ]` ▚ LANGUAGES.CFG
 
 | LANG | LEVEL | BAR |
 |:-----|:------|:----|
@@ -115,7 +94,7 @@ n1az@potsdam:~/readme$ ./init_profile.sh
 
 ---
 
-## `[ 07 ]` ▚ ACHIEVEMENTS+CERTS
+## `[ 06 ]` ▚ ACHIEVEMENTS+CERTS
 
 | TYPE | TITLE | ISSUER |
 |:-----|:------|:-------|
@@ -125,7 +104,7 @@ n1az@potsdam:~/readme$ ./init_profile.sh
 
 ---
 
-## `[ 08 ]` ▚ CONFERENCES.PUB
+## `[ 07 ]` ▚ CONFERENCES.PUB
 
 | YEAR | PROJECT | VENUE |
 |:-----|:------|:------|
@@ -133,7 +112,7 @@ n1az@potsdam:~/readme$ ./init_profile.sh
 
 ---
 
-## `[ 09 ]` ▚ CONTRIBUTION.SNAKE
+## `[ 08 ]` ▚ CONTRIBUTION.SNAKE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n1az/n1az/output/github-contribution-grid-snake-dark.svg">
