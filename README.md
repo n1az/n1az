@@ -22,17 +22,11 @@ n1az@potsdam:~/readme$ ./init_profile.sh
 </pre>
 
 <p align="center">
-  <a href="https://n1az.github.io">
+  <a href="https://niazm.pages.dev">
     <img src="https://img.shields.io/badge/MY%20PAGE-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/n1az/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/n1azmorshed">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/n1azmorshed/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
