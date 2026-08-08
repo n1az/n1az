@@ -30,6 +30,7 @@ n1az@potsdam:~/readme$ ./init_profile.sh
 | `name` | Md. Niaz Morshed — thanks for visiting my kind of empty github |
 | `interests` | Artificial Intelligence · Quantum Computation |
 | `currently` | M.Sc. Data Science @ University of Potsdam |
+| `working` | Agentic AI in Azure @ KPMG · AI Innovation in Audit |
 | `seeking` | AI Engineering / Data Science projects, PhD or job |
 | `reach_me` | Through my [github page](https://n1az.github.io) — redirects you per your convenience |
 
